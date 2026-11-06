@@ -1,0 +1,3 @@
+pfsp-perturb-small     runs checked   175  mismatches 0  max |diff| 0  (282 s)
+pfsp-accept-small      runs checked   175  mismatches 0  max |diff| 0  (246 s)
+REPRODUCED EXACTLY
